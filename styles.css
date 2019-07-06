@@ -1,0 +1,110 @@
+li{
+    /* color: black; */
+    display:inline;
+    border:7px;
+    padding-right: 20px;
+    font-size: 25px;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.important{
+    height: 600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('bg.jpg');
+}
+.important img{
+    height: 600px;
+    width: 100%;
+    margin: 0;
+}
+
+nav{
+    margin-top: 0;
+    background-color: rgb(39, 43, 43);
+    height: 70px;
+}      
+#aboutme p img{
+    float: right; 
+    padding: 20px 20px 20px 50px;
+    margin-right:80px;
+   }
+   p{
+       color:rgb(230, 29, 106);
+       font-size:30px;
+       font-style:italic;
+       margin-left:200px;
+       margin-top:20px;
+   }
+   a:hover{
+       color:aqua;
+   }
+   h1{
+      font-size: 35px;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      text-align: center;
+      text-decoration:underline;
+      text-decoration-color: aqua ;
+   }
+   #myskills{
+       display: flex;
+       flex-direction: row;
+   }
+   #navbar{
+       /* overflow: hidden; */
+       position:sticky;
+       top:0;
+       width: 100%;
+   }
+   h2{
+       text-align: center;
+   }
+   h3{
+       margin-left: 65%;
+       margin-right: 50%;
+   }
+   h4{
+       text-align: center;
+       font-size: 25px;
+       font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   }
+   #job{
+       font-size: 30px;
+       color: chocolate;
+       text-decoration-line: overline;
+       
+   }
+   /* .important{
+       background-image: url();
+       background-size: cover;
+       background-repeat: no-repeat;
+   } */
+   form{
+    text-align: center;
+    }
+    input[type=text], input[type=email],textarea{
+        border-radius:5px; 
+        width: 300px;
+        margin: 10px;
+    }
+    input[type=Submit]{
+        border-radius:4;
+        background-color: aqua;
+        padding: 10px;
+    }
+    input[type=Submit]:hover{
+        background-color:aqua ;
+    }
+    a{
+        color: azure;
+    }
+    #aboutme{
+        margin-top: 60px;
+    }
+
+
+    
+  
+  
