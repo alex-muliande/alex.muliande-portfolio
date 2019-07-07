@@ -7,10 +7,10 @@ The file is made most precisely with HTML and CSS making it easy to be viewed in
 ## Known bugs 
 The links of my other projects might be loading unfriendly but I am working on it.
 
-##Tech used 
+## Tech used 
 >HTML
 >CSS
 
-##Support and controls 
+## Support and controls 
 incase of anything or any questions reach out to me for verifications@ alenad425@gmail.com
 
