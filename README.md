@@ -1,5 +1,7 @@
 # alex.muliande-portfolio
 A portfolio about me and the progress that I have had in coding so far.
+>>https://alex-muliande.github.io/alex.muliande-portfolio/
+**my link**
 
 ## Setup
 The file is made most precisely with HTML and CSS making it easy to be viewed in any brower. i.e Chrome.
