@@ -1,5 +1,4 @@
 li{
-    /* color: black; */
     display:inline;
     border:7px;
     padding-right: 20px;
@@ -13,7 +12,6 @@ body{
     height: 600px;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url('bg.jpg');
 }
 .important img{
     height: 600px;
@@ -53,7 +51,6 @@ nav{
        flex-direction: row;
    }
    #navbar{
-       /* overflow: hidden; */
        position:sticky;
        top:0;
        width: 100%;
@@ -76,11 +73,6 @@ nav{
        text-decoration-line: overline;
        
    }
-   /* .important{
-       background-image: url();
-       background-size: cover;
-       background-repeat: no-repeat;
-   } */
    form{
     text-align: center;
     }
