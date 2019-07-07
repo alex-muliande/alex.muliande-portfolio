@@ -1,8 +1,12 @@
+*{
+    scroll-behavior:smooth;
+}
 li{
     display:inline;
     border:7px;
-    padding-right: 20px;
+    /* padding-right: 20px; */
     font-size: 25px;
+    padding:40px;
 }
 ol {
     color: rgb(61, 42, 165);
@@ -10,6 +14,7 @@ ol {
 body{
     margin: 0;
     padding: 0;
+    
 }
 .important{
     height: 600px;
