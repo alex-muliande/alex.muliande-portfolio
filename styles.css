@@ -15,6 +15,7 @@ body{
     margin: 0;
     padding: 0;
     overflow-x:hidden;
+    background-color:black;
     
 }
 .important{
@@ -39,7 +40,7 @@ nav{
     margin-right:80px;
    }
    p{
-       color:rgb(230, 29, 106);
+       color:rgb(214, 21, 95);
        font-size:30px;
        font-style:italic;
        margin-left:200px;
@@ -49,6 +50,7 @@ nav{
        color:aqua;
    }
    h1{
+       color: rgba(228, 35, 9, 0.993);
       font-size: 35px;
       font-family: Georgia, 'Times New Roman', Times, serif;
       text-align: center;
@@ -89,6 +91,7 @@ nav{
         border-radius:5px; 
         width: 300px;
         margin: 10px;
+        padding: 20px;
     }
     input[type=Submit]{
         border-radius:4;
