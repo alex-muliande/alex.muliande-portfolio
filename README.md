@@ -14,5 +14,5 @@ The links of my other projects might be loading unfriendly but I am working on i
 >CSS
 
 ## Support and controls 
-incase of anything or any questions reach out to me for verifications@ alenad425@gmail.com
+incase of anything or any questions reach out to me for verifications@ alexnad425@gmail.com
 
